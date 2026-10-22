@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <title>GeeTree app icon</title>
+  <rect width="1024" height="1024" rx="232" fill="#1e1c19"/>
+  <rect x="26" y="26" width="972" height="972" rx="212" fill="none" stroke="#2a2723" stroke-width="4"/>
+  <g fill="none" stroke="#f3f0ea" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M512 816 V262"/>
+    <path d="M512 704 C512 566 332 606 332 476 V318"/>
+    <path d="M512 598 C512 470 692 500 692 382 V268"/>
+  </g>
+  <circle cx="512" cy="232" r="74" fill="#4fb3b8" stroke="#f3f0ea" stroke-width="24"/>
+  <circle cx="332" cy="300" r="62" fill="#e39a4c" stroke="#f3f0ea" stroke-width="24"/>
+  <circle cx="692" cy="250" r="62" fill="#a6c85c" stroke="#f3f0ea" stroke-width="24"/>
+  <circle cx="512" cy="816" r="76" fill="#f3f0ea"/>
+  <circle cx="512" cy="816" r="34" fill="#1e1c19"/>
+</svg>
