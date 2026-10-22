@@ -18,11 +18,11 @@ English | [简体中文](#简体中文)
 brew install --cask cmzy/tap/geetree
 ```
 
-Or download the `.dmg` for your Mac's chip from [Releases](https://github.com/cmzy/geetree/releases/latest): `aarch64` for Apple silicon, `x64` for Intel. The app is signed and notarised by Apple and opens at once.
+Or download the `.dmg` for your Mac's chip: [Apple silicon](https://github.com/cmzy/geetree/releases/latest/download/GeeTree_aarch64.dmg) or [Intel](https://github.com/cmzy/geetree/releases/latest/download/GeeTree_x64.dmg). The app is signed and notarised by Apple and opens at once.
 
-**Windows** 10 1809 or later (x64): the `-setup.exe` installer from [Releases](https://github.com/cmzy/geetree/releases/latest). It installs for the current user, no administrator rights needed.
+**Windows** 10 1809 or later (x64): the [installer](https://github.com/cmzy/geetree/releases/latest/download/GeeTree_x64-setup.exe). It installs for the current user, no administrator rights needed.
 
-**Linux** (x64): the `.deb` package or the `.AppImage` from [Releases](https://github.com/cmzy/geetree/releases/latest).
+**Linux** (x64): the [AppImage](https://github.com/cmzy/geetree/releases/latest/download/GeeTree_x86_64.AppImage) or the [.deb package](https://github.com/cmzy/geetree/releases/latest/download/GeeTree_amd64.deb).
 
 GeeTree uses your system's `git`, version 2.30 or later. Every release lists the files' SHA-256 sums in `SHA256SUMS`, and the app updates itself from new releases.
 
@@ -52,11 +52,11 @@ This repository holds GeeTree's releases and issues; the source code is not publ
 brew install --cask cmzy/tap/geetree
 ```
 
-也可以在 [Releases](https://github.com/cmzy/geetree/releases/latest) 下载对应芯片的 `.dmg`：Apple 芯片选 `aarch64`，Intel 选 `x64`。应用已经过 Apple 签名与公证，下载后可直接打开。
+也可以下载对应芯片的 `.dmg`：[Apple 芯片](https://github.com/cmzy/geetree/releases/latest/download/GeeTree_aarch64.dmg)或 [Intel](https://github.com/cmzy/geetree/releases/latest/download/GeeTree_x64.dmg)。应用已经过 Apple 签名与公证，下载后可直接打开。
 
-**Windows** 10 1809 及以上（x64）：在 [Releases](https://github.com/cmzy/geetree/releases/latest) 下载 `-setup.exe` 安装程序，装到当前用户，不需要管理员权限。
+**Windows** 10 1809 及以上（x64）：下载[安装程序](https://github.com/cmzy/geetree/releases/latest/download/GeeTree_x64-setup.exe)，装到当前用户，不需要管理员权限。
 
-**Linux**（x64）：在 [Releases](https://github.com/cmzy/geetree/releases/latest) 下载 `.deb` 安装包或 `.AppImage`。
+**Linux**（x64）：下载 [AppImage](https://github.com/cmzy/geetree/releases/latest/download/GeeTree_x86_64.AppImage) 或 [.deb 安装包](https://github.com/cmzy/geetree/releases/latest/download/GeeTree_amd64.deb)。
 
 GeeTree 使用系统中的 `git`，需要 2.30 及以上版本。每个版本都在 `SHA256SUMS` 中列出文件的 SHA-256 校验值；应用会从新版本自动更新。
 
