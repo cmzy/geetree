@@ -103,6 +103,10 @@ sudo apt install ./GeeTree_amd64.deb
 
 每个版本都附带 `SHA256SUMS` 用于校验下载的文件；有新版本时 GeeTree 会自动更新。[全部版本 →](https://github.com/cmzy/geetree/releases)
 
+## 隐私
+
+GeeTree 不收集使用数据：没有遥测，没有分析。只在三种情况下联网——你自己的 `git` 访问你自己的远端；启动时每天最多一次的更新检查（只带版本号和平台，可在「偏好设置 → 更新」里关掉）；以及你自己登录过的托管账号的 API。账号令牌保存在系统钥匙串，崩溃报告只留在本机。[完整说明 &rarr;](https://geetree.app/privacy/)
+
 ## 问题反馈
 
 遇到问题或想要新功能？请提交 [Issue](https://github.com/cmzy/geetree/issues)。
