@@ -103,6 +103,10 @@ sudo apt install ./GeeTree_amd64.deb
 
 Every release ships a `SHA256SUMS` file to verify the download against, and GeeTree updates itself when a new version is out. [All releases →](https://github.com/cmzy/geetree/releases)
 
+## Privacy
+
+GeeTree collects no usage data: no telemetry, no analytics. It goes online for three things — your own `git` talking to your own remotes, an update check at launch (at most once a day, carrying only the version and platform; Preferences &rarr; Update turns it off), and the API of a hosting account you signed in to yourself. Account tokens are kept in the system keychain, and crash reports stay on your machine. [What is sent, in full &rarr;](https://geetree.app/en/privacy/)
+
 ## Feedback
 
 Found a bug or missing a feature? Open an [issue](https://github.com/cmzy/geetree/issues).
